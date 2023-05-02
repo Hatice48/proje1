@@ -1,0 +1,173 @@
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-"8>
+        <meta name="description" content="Profesyonel Web Tasarımı">
+        <meta name="author" content ="Hatice Yeşilova  Emine Çürek">
+        <meta name="keywords" content="HTML,CSS">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SHOES - HOME</title>
+        
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        </head>
+    
+    <body>
+        
+        <header>
+            <div class="container">
+                <div class="logo">
+                    <a href="index.html">SHOES</a>
+                </div>
+                <div class="menu">
+                    <ul>
+                        <li><a href="index.htmL">HOME</a></li>
+                        <li><a href="index.htlm">SHOES</a>
+                        </li>
+                        <li><a href="index.htlm">ABOUT</a>
+                        </li>
+                        <li><a href="index.htlm">CONTENT</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        
+        </header>
+        
+        <!--MAIN SECTION -->
+        <section id="mainSlider" class="slider">
+            <div id="mainCaption" class="caption">
+                <h1>LOREM IPSUM DOLOR SIT AMET</h1>
+            </div>
+        </section>
+        
+         <!--FEATURE SECTION -->
+        <section id="feature" class="sectionArea">
+            <div class="featuresTop">
+                <h2 class="sectionHeader" FEATURED SERVICE></h2>
+                <p>Vix at tation facete impetus connesque ius harum antiopam.</p>
+            </div>
+            <div class="featuresBody">
+                <div class="container">
+                    <div class="col3">
+                        <div class="item">
+                            <div class="zoom">
+                                <img src="1.foto.jpg">
+                            </div>
+                            <div class="itemText">
+                                <h3>IPSUM DOLOR SIT AMET</h3>
+                                <p>It is a type of shoe worn during sports activities. Fitness fashion, sports fashion is an important part of sportswear. It is especially worn in physical activities such as football, volleyball, running, and matches.</p>
+                                <a href="#" class="btnDetails" More Details></a>
+                            </div>
+                        </div>
+                    </div>
+                        <div class="col3">
+                        <div class="item">
+                            <div class="zoom">
+                                <img src="2.foto.jpg">
+                            </div>
+                            <div class="itemText">
+                                <h3>IPSUM DOLOR SIT AMET</h3>
+                                <p>It is a type of shoe worn during sports activities. Fitness fashion, sports fashion is an important part of sportswear. It is especially worn in physical activities such as football, volleyball, running, and matches.</p>
+                                <a href="#" class="btnDetails" More Details></a>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="col3">
+                        <div class="item">
+                            <div class="zoom">
+                                <img src="4.foto.jpg">
+                            </div>
+                            <div class="itemText">
+                                <h3>IPSUM DOLOR SIT AMET</h3>
+                                <p>It is a type of shoe worn during sports activities. Fitness fashion, sports fashion is an important part of sportswear. It is especially worn in physical activities such as football, volleyball, running, and matches.</p>
+                                <a href="#" class="btnDetails" More Details></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- PARALAX SECTION-->
+        
+        <section id="paralax" class="sectionnArea">
+            <div class="paralaxTop">
+                <h2 class="sectionHeader">WELCOME TO SHOES</h2>
+                <p>Vix at tation facete impetus connesque ius harum antiopam.</p>
+                </div>
+        </section>
+          <!-- ENGINE SECTION-->
+        <section id="engine" class="sectionArea">
+            <div class="engineTop">
+                <h2 class="sectionHeader">HEELED SHOES</h2>
+                <p>Vix at tation facete impetus connesque ius harum antiopam.</p>
+            </div>
+            <div class="engineBody">
+                <div class="container">
+                    <div class="col2">
+                        <div class="engineContainer">
+                            <img src="6.foto.jpg" class="imgOver">
+                            <div class="engineOverlay">
+                                <div class="engineText"Image Text></div>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col2">
+                        <div class="engineContainer">
+                            <img src="7.foto.jpg" class="imgOver">
+                            <div class="engineOverlay">
+                                <div class="engineText"Image Text></div>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col2">
+                        <div class="engineContainer">
+                            <img src="8.foto.jpg" class="imgOver">
+                            <div class="engineOverlay">
+                                <div class="engineText"Image Text></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--ENGONE SECTION -->
+        
+        <footer class="sectionArea">
+            <div class="container">
+                <div class="col3">
+                    <div class="footerItem">
+                        <h3>WELCOME TO OUR SITE</h3>
+                        <a href="index.html">SHOES</a>
+                    </div>
+                </div>
+                                <div class="col3">
+                    <div class="footerItem">
+                        <h3>QUICK LINKS</h3>
+                        <ul class="footerLinks">
+                            <li><a href="index.html">HOME</a></li>
+                                <li><a href="shoes.html">SHOES</a></li>
+                            <li><a href="about.html">ABOUT</a></li>
+                            <li><a href="contact.html">CONTACT</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                    <div class="col3">
+                    <div class="footerItem">
+                        <h3>BE SOCIAL WITH US</h3>
+                        <ul class="socialLinks">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                
+            </div>
+        </footer>
+
+    </body>
+</html>
